@@ -1,6 +1,6 @@
 # Gharaana
 
-# Gharaana – On-Demand Home Services Platform
+# On-Demand Home Services Platform
 
 **Gharaana** is a full-stack, on-demand home services platform designed to connect users with trusted service providers for daily needs. The platform ensures a secure, smooth, and visually engaging experience, catering to users' comfort and convenience.
 Link : https://www.buddygharaana.online/lander
