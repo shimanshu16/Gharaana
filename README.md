@@ -1,61 +1,101 @@
-Gharaana
+# 🏠 Gharaana - On-Demand Home Services Platform
 
-On-Demand Home Services Platform
+![GitHub repo size](https://img.shields.io/github/repo-size/shimanshu16/gharaana?color=blue&style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/shimanshu16/gharaana?color=green&style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/shimanshu16/gharaana?style=social)
+![GitHub stars](https://img.shields.io/github/stars/shimanshu16/gharaana?style=social)
 
-Gharaana is a full-stack, on-demand home services platform designed to connect users with trusted service providers for daily needs. The platform ensures a secure, smooth, and visually engaging experience, catering to users' comfort and convenience. Link : https://www.buddygharaana.online/lander
-________________________________________
+**Gharaana** is a full-stack, on-demand home services platform that connects users with trusted professionals for essential daily services. The platform ensures a **secure**, **scalable**, and **visually engaging** experience tailored for convenience.
 
-🚀 Features
-•	🔐 Secure Authentication: Robust user login and session management.
-•	🛠️ Service Request Management: Users can browse, book, and track home services.
-•	💳 Payment Integration: Seamless payment workflow for hassle-free transactions.
-•	📱 Android App: Fully responsive frontend with intuitive UI/UX.
-•	🎨 Custom UI/UX: Designed from scratch to ensure a user-centric and frictionless experience.
-________________________________________
+🔗 **Live Demo:** [www.buddygharaana.online/lander](https://www.buddygharaana.online/lander)
 
-🛠️ Tech Stack
-Backend:
-•	Java
-•	Spring Boot
-•	MongoDB
-•	Maven
-Frontend:
-•	Android (Java/Kotlin)
-•	XML UI Design
-Tools & Practices:
-•	Postman (API testing)
-•	GitHub (Version Control)
-•	Agile-based team coordination
-________________________________________
+---
 
-👨‍💻 Role & Contributions
-•	Led Development: Spearheaded the entire project lifecycle from planning to deployment.
-•	Backend Architect: Built RESTful APIs for authentication, service flows, and payments using Spring Boot & MongoDB.
-•	Team Management: Guided Android developers in implementing robust, scalable frontend components.
-•	UI/UX Design: Designed the full user interface, focusing on usability and visual appeal.
-________________________________________
-________________________________________
+## 🚀 Features
 
-📦 Installation & Setup (For Developers)
-1.	Clone the Repository:
+- 🔐 **Secure Authentication** — User login and session management using industry best practices.
+- 🛠️ **Service Request Management** — Browse, book, and track professional home services in real-time.
+- 💳 **Payment Integration** — Integrated secure payment workflows for smooth transactions.
+- 📱 **Android App** — Intuitive and responsive mobile app interface.
+- 🎨 **Custom UI/UX** — Thoughtfully designed interfaces with smooth navigation.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧩 Backend
+- Java  
+- Spring Boot  
+- MongoDB  
+- Maven  
+
+### 📲 Frontend
+- Android (Java/Kotlin)  
+- XML-based UI Design  
+
+### 🧰 Tools & Practices
+- Postman (API Testing)  
+- GitHub (Version Control)  
+- Agile Methodology  
+
+---
+
+## 👨‍💻 My Role & Contributions
+
+- **Project Lead:** Managed end-to-end development from concept to deployment.
+- **Backend Architect:** Developed RESTful APIs for authentication, booking, and payments using Spring Boot and MongoDB.
+- **Team Lead:** Supervised frontend development and ensured integration quality.
+- **UI/UX Designer:** Built the entire user interface with a strong focus on user experience.
+
+---
+
+## 📦 Installation & Setup (For Developers)
+
+### 📁 Clone the Repository
+
+```bash
 git clone https://github.com/shimanshu16/gharaana.git
-2.	Backend Setup (Spring Boot):
-o	Import project into your IDE (IntelliJ, Eclipse).
-o	Run mvn install
-o	Configure application.properties for MongoDB credentials.
-o	Run the application using SpringBootApplication.java.
-3.	Frontend Setup (Android):
-o	Open Android folder in Android Studio.
-o	Build and run the project on emulator or device.
-________________________________________
+cd gharaana
+⚙ Backend Setup (Spring Boot)
+Import the project into IntelliJ IDEA or Eclipse.
+
+Run:
+
+bash
+Copy
+Edit
+mvn install
+Configure MongoDB in src/main/resources/application.properties.
+
+Run the application using SpringBootApplication.java.
+
+📱 Frontend Setup (Android)
+Open the Android folder in Android Studio.
+
+Connect a device or emulator.
+
+Build and run the project.
 
 🤝 Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-________________________________________
+Contributions are welcome!
+To contribute:
+
+Fork the repository
+
+Create a new branch (git checkout -b feature-name)
+
+Commit your changes (git commit -m 'Add feature')
+
+Push to the branch (git push origin feature-name)
+
+Open a pull request
+
+For major changes, please open an issue to discuss the proposed changes.
 
 📬 Contact
-For queries or collaboration:
-📧 work.himanshu16@gmail.com
-🔗 LinkedIn
-________________________________________
+📧 Email: work.himanshu16@gmail.com
 
+🔗 LinkedIn: linkedin.com/in/shimanshu16
+
+📄 License
+This project is open-source and available under the MIT License.
